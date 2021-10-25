@@ -4,9 +4,9 @@ Esto es un repositorio de README.md
 
 ## Informacion:
 
-| Informacion1 | Informacion2 | Informacion3 | Informacion4 |
+| Nombre | Apellidos | Mayor de Edad | Conductor  |
 |--------------|--------------|--------------|--------------|
-| caracteristica1 | `caracteristica1` | Yes | Yes |
+| Alejandro | Vicente Vidal | Yes | Yes |
 | caracteristica2 | `caracteristica2` | Yes | Yes |
 | caracteristica3 | `caracteristica3` | Yes | Yes |
 | caracteristica4 | `caracteristica4` | Yes | Yes |
