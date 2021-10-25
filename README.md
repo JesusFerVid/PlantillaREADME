@@ -7,8 +7,8 @@ Esto es un repositorio de README.md
 | Nombre | Apellidos | Mayor de Edad | Conductor  |
 |--------------|--------------|--------------|--------------|
 | Alejandro | Vicente Vidal | Yes | Yes |
-| caracteristica2 | `caracteristica2` | Yes | Yes |
-| caracteristica3 | `caracteristica3` | Yes | Yes |
+| Jesús | Fernández Vidal | Yes | Yes |
+| Rubén | Espínola López | Yes | No |
 | caracteristica4 | `caracteristica4` | Yes | Yes |
 | caracteristica5 | `caracteristica5` | Yes | Yes |
 | caracteristica7 | `caracteristica6` | Yes | Yes |
@@ -34,6 +34,6 @@ Esto es un repositorio de README.md
 
 ## Agradecimientos:
 
-* [@usuario](https://github.com/usuario)
+* [@Ruben1863](https://github.com/Ruben1863)
 
 
